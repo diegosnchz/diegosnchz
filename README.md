@@ -25,18 +25,18 @@ No solo escribo código; diseño arquitecturas. Mi enfoque no está en la sintax
 
 **Arquitectura de IA & Data Engineering**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow"/>
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-000000?style=for-the-badge&logo=openai&logoColor=white" alt="RL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 **Data Logic & Business Intelligence**
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="PowerBI"/>
-  <img src="https://img.shields.io/badge/ETL_Pipelines-4B275F?style=for-the-badge&logo=apache-spark&logoColor=white" alt="ETL"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/ETL_Pipelines-4B275F?style=for-the-badge&logo=apache-spark&logoColor=white" />
 </p>
 
 ---
@@ -80,13 +80,17 @@ El fundamento lógico detrás de la arquitectura.
 ### Métricas de Ingeniería & Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosnchz&layout=compact&theme=visual_studio_code&hide=html,css,scss,javascript&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosnchz&layout=compact&theme=dark&hide=html,css,javascript,scss&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegosnchz&theme=visual_studio_code&hide_border=true" alt="GitHub Streak" />
-</p>
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegosnchz&show_icons=true&theme=visual_studio_code&hide_rank=true&hide_border=true" alt="General Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diegosnchz&show_icons=true&theme=dark&hide_rank=true&hide_border=true" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegosnchz&theme=dark&hide_border=true" />
 </p>
