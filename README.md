@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diego-sanchez-peinado/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:diegovscodee@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -55,12 +55,12 @@ No solo escribo código; diseño arquitecturas. Mi enfoque no está en la sintax
 ### Proyectos Destacados: Arquitectura & Algoritmos
 
 #### ForestGuardianRL – Sistema de Agentes Inteligentes
-> *Prueba de concepto en Aprendizaje por Refuerzo.*
+> Prueba de concepto en Aprendizaje por Refuerzo.
 * **Arquitectura:** Implementación de un sistema de Reinforcement Learning para la gestión forestal dinámica.
 * **Lógica:** Configuración de entornos de entrenamiento y lógica de toma de decisiones para agentes autónomos.
 
 #### MinorityReport – Inteligencia Predictiva
-> *Sistema de detección de patrones.*
+> Sistema de detección de patrones.
 * **Modelado:** Diseño de modelos de Machine Learning supervisado para la detección de patrones de comportamiento.
 * **Ingeniería de Datos:** Arquitectura de pipelines para el procesamiento de datasets de alta complejidad.
 
@@ -80,17 +80,13 @@ El fundamento lógico detrás de la arquitectura.
 ### Métricas de Ingeniería & Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosnchz&layout=compact&theme=dark&hide=html,css,javascript,scss&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosnchz&layout=compact&hide=html,css,javascript,scss&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true" />
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegosnchz&show_icons=true&theme=dark&hide_rank=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diegosnchz&show_icons=true&hide_rank=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true" />
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegosnchz&theme=dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diegosnchz&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 </p>
