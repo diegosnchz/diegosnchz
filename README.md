@@ -80,7 +80,7 @@ El fundamento lógico detrás de la arquitectura.
 ### Métricas de Ingeniería & Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosnchz&layout=compact&theme=visual_studio_code&hide=html,css,scss&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosnchz&layout=compact&theme=visual_studio_code&hide=html,css,scss,javascript&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
