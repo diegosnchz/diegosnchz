@@ -1,8 +1,8 @@
-<h1 align="center">Hola, soy [TU NOMBRE] 👋</h1>
+<h1 align="center">Diego Sánchez</h1>
 <h3 align="center">AI & Big Data Solutions Architect</h3>
 
 <p align="center">
-  <em>"Especialista en el diseño de sistemas inteligentes y optimización de flujos de datos."</em>
+  <em>Especialista en el diseño de sistemas inteligentes y optimización de flujos de datos.</em>
 </p>
 
 <p align="center">
@@ -16,12 +16,12 @@
 
 ---
 
-### 🚀 Sobre mí
-No solo escribo código; **diseño arquitecturas**. Mi enfoque no está en la sintaxis línea por línea, sino en la lógica estructural que resuelve problemas de negocio complejos. Me especializo en traducir necesidades estratégicas en soluciones técnicas escalables, utilizando Inteligencia Artificial y Big Data.
+### Sobre mí
+No solo escribo código; diseño arquitecturas. Mi enfoque no está en la sintaxis línea por línea, sino en la lógica estructural que resuelve problemas de negocio complejos. Me especializo en traducir necesidades estratégicas en soluciones técnicas escalables, utilizando Inteligencia Artificial y Big Data.
 
 ---
 
-### 🧠 Área de Arquitectura & Tech Stack
+### Área de Arquitectura & Tech Stack
 
 **Arquitectura de IA & Data Engineering**
 <p>
@@ -40,45 +40,45 @@ No solo escribo código; **diseño arquitecturas**. Mi enfoque no está en la si
 
 ---
 
-### 💼 Experiencia Profesional
+### Experiencia Profesional
 
-#### **HPE (Hewlett Packard Enterprise) | AI Solutions Intern**
+#### HPE (Hewlett Packard Enterprise) | AI Solutions Intern
 *Enfoque: Arquitectura de Soluciones y Estrategia de Datos.*
 
 * **Diseño de Arquitecturas de Datos:** Implementación de modelos de análisis masivo utilizando ecosistemas de Python y Pandas.
-* **Optimización de Sistemas de BI:** Desarrollo y despliegue de cuadros de mando críticos en Power BI para la extracción de *insights* estratégicos.
+* **Optimización de Sistemas de BI:** Desarrollo y despliegue de cuadros de mando críticos en Power BI para la extracción de insights estratégicos.
 * **Estrategia SQL:** Gestión y modelado de bases de datos complejas para el soporte de decisiones de negocio.
 
 ---
 
-### 🧪 Proyectos Destacados: Arquitectura & Algoritmos
+### Proyectos Destacados: Arquitectura & Algoritmos
 
-#### 🌲 **ForestGuardianRL – Sistema de Agentes Inteligentes**
+#### ForestGuardianRL – Sistema de Agentes Inteligentes
 > *Prueba de concepto en Aprendizaje por Refuerzo.*
 * **Arquitectura:** Implementación de un sistema de Reinforcement Learning para la gestión forestal dinámica.
 * **Lógica:** Configuración de entornos de entrenamiento y lógica de toma de decisiones para agentes autónomos.
 
-#### 🔮 **MinorityReport – Inteligencia Predictiva**
+#### MinorityReport – Inteligencia Predictiva
 > *Sistema de detección de patrones.*
 * **Modelado:** Diseño de modelos de Machine Learning supervisado para la detección de patrones de comportamiento.
 * **Ingeniería de Datos:** Arquitectura de pipelines para el procesamiento de datasets de alta complejidad.
 
 ---
 
-### 🏆 Educación & Méritos
+### Educación & Méritos
 
 El fundamento lógico detrás de la arquitectura.
 
-* **Máster en Big Data e Inteligencia Artificial** | FP Euroformac *(10/2025 – 04/2026)*
+* **Máster en Big Data e Inteligencia Artificial** | FP Euroformac (10/2025 – 04/2026)
 * **Técnico Superior en DAW** | FP Euroformac
-    * 🏅 **Mención Especial:** Premio al Mejor Expediente Académico.
-* **Grado en Ingeniería Informática** | UOC *(Inicio: Junio 2026)*
+    * **Mención Especial:** Premio al Mejor Expediente Académico.
+* **Grado en Ingeniería Informática** | UOC (Inicio: Junio 2026)
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_GITHUB]&show_icons=true&theme=radical&hide_border=true" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_GITHUB]&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diegosnchz&show_icons=true&theme=radical&hide_border=true" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosnchz&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
