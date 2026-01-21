@@ -2,7 +2,7 @@
 <h3 align="center">AI & Big Data Solutions Architect</h3>
 
 <p align="center">
-  <em>Specialist in intelligent system design and data flow optimization.</em>
+  <em>Especialista en el diseño de sistemas inteligentes y optimización de flujos de datos.</em>
 </p>
 
 <p align="center">
@@ -16,14 +16,14 @@
 
 ---
 
-### About Me
-I don't just write code; I design architectures. My focus isn't on line-by-line syntax, but on the structural logic that solves complex business problems. I specialize in translating strategic needs into scalable technical solutions using Artificial Intelligence and Big Data.
+### Sobre mí
+No solo escribo código; diseño arquitecturas. Mi enfoque no está en la sintaxis línea por línea, sino en la lógica estructural que resuelve problemas de negocio complejos. Me especializo en traducir necesidades estratégicas en soluciones técnicas escalables, utilizando Inteligencia Artificial y Big Data.
 
 ---
 
-### Architecture Area & Tech Stack
+### Área de Arquitectura & Tech Stack
 
-**AI Architecture & Data Engineering**
+**Arquitectura de IA & Data Engineering**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -41,39 +41,39 @@ I don't just write code; I design architectures. My focus isn't on line-by-line 
 
 ---
 
-### Professional Experience
+### Experiencia Profesional
 
 #### HPE (Hewlett Packard Enterprise) | AI Solutions Intern
-*Focus: Solution Architecture & Data Strategy.*
+*Enfoque: Arquitectura de Soluciones y Estrategia de Datos.*
 
-* **Data Architecture Design:** Implementation of massive analysis models using Python and Pandas ecosystems.
-* **BI System Optimization:** Development and deployment of critical Power BI dashboards for strategic insight extraction.
-* **SQL Strategy:** Management and modeling of complex databases for business decision support.
-
----
-
-### Featured Projects: Architecture & Algorithms
-
-#### ForestGuardianRL – Intelligent Agent System
-> *Proof of Concept in Reinforcement Learning.*
-* **Architecture:** Implementation of a Reinforcement Learning system for dynamic forest management.
-* **Logic:** Configuration of training environments and autonomous agent decision-making logic.
-
-#### MinorityReport – Predictive Intelligence
-> *Pattern Detection System.*
-* **Modeling:** Design of supervised Machine Learning models for behavioral pattern detection.
-* **Data Engineering:** Pipeline architecture for processing high-complexity datasets.
+* **Diseño de Arquitecturas de Datos:** Implementación de modelos de análisis masivo utilizando ecosistemas de Python y Pandas.
+* **Optimización de Sistemas de BI:** Desarrollo y despliegue de cuadros de mando críticos en Power BI para la extracción de insights estratégicos.
+* **Estrategia SQL:** Gestión y modelado de bases de datos complejas para el soporte de decisiones de negocio.
 
 ---
 
-### Education & Merits
+### Proyectos Destacados: Arquitectura & Algoritmos
 
-The logical foundation behind the architecture.
+#### ForestGuardianRL – Sistema de Agentes Inteligentes
+> *Prueba de concepto en Aprendizaje por Refuerzo.*
+* **Arquitectura:** Implementación de un sistema de Reinforcement Learning para la gestión forestal dinámica.
+* **Lógica:** Configuración de entornos de entrenamiento y lógica de toma de decisiones para agentes autónomos.
 
-* **Bachelor's Degree in Computer Engineering** | UOC (Start: June 2026)
-* **Master in Big Data & Artificial Intelligence** | FP Euroformac (10/2025 – 04/2026)
-* **Higher Technician in Web Application Development (DAW)** | FP Euroformac
-    * **Special Mention:** Best Academic Record Award.
+#### MinorityReport – Inteligencia Predictiva
+> *Sistema de detección de patrones.*
+* **Modelado:** Diseño de modelos de Machine Learning supervisado para la detección de patrones de comportamiento.
+* **Ingeniería de Datos:** Arquitectura de pipelines para el procesamiento de datasets de alta complejidad.
+
+---
+
+### Educación & Méritos
+
+El fundamento lógico detrás de la arquitectura.
+
+* **Grado en Ingeniería Informática** | UOC (Inicio: Septiembre 2026)
+* **Máster en Big Data e Inteligencia Artificial** | FP Euroformac (10/2025 – 04/2026)
+* **Técnico Superior en DAW** | FP Euroformac
+    * **Mención Especial:** Premio al Mejor Expediente Académico.
 
 ---
 
