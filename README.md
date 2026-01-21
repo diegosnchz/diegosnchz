@@ -77,9 +77,16 @@ El fundamento lógico detrás de la arquitectura.
 
 ---
 
-### GitHub Stats
+### Métricas de Ingeniería & Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegosnchz&show_icons=true&theme=radical&hide_border=true" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosnchz&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosnchz&layout=compact&theme=visual_studio_code&hide=html,css,scss&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegosnchz&theme=visual_studio_code&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diegosnchz&show_icons=true&theme=visual_studio_code&hide_rank=true&hide_border=true" alt="General Stats" />
 </p>
