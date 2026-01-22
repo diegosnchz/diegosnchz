@@ -1,5 +1,5 @@
 <h1 align="center">Diego Sánchez</h1>
-<h3 align="center">AI & Big Data Solutions Architect</h3>
+<h3 align="center">Junior AI & Big Data Solutions Architect</h3>
 
 <p align="center">
   <em>Especialista en el diseño de sistemas inteligentes y optimización de flujos de datos.</em>
@@ -17,7 +17,7 @@
 ---
 
 ### Sobre mí
-No solo escribo código; diseño arquitecturas. Mi enfoque no está en la sintaxis línea por línea, sino en la lógica estructural que resuelve problemas de negocio complejos. Me especializo en traducir necesidades estratégicas en soluciones técnicas escalables, utilizando Inteligencia Artificial y Big Data.
+Profesional con un fuerte enfoque en la arquitectura de soluciones y la lógica estructural. Mi objetivo es transformar necesidades estratégicas en sistemas escalables mediante el uso de Inteligencia Artificial y Big Data. Mi metodología se centra en el diseño de procesos eficientes y la resolución de problemas lógicos complejos desde una perspectiva de ingeniería.
 
 ---
 
@@ -46,9 +46,9 @@ No solo escribo código; diseño arquitecturas. Mi enfoque no está en la sintax
 #### HPE (Hewlett Packard Enterprise) | AI Solutions Intern
 *Enfoque: Arquitectura de Soluciones y Estrategia de Datos.*
 
-* **Diseño de Arquitecturas de Datos:** Implementación de modelos de análisis masivo utilizando ecosistemas de Python y Pandas.
-* **Optimización de Sistemas de BI:** Desarrollo y despliegue de cuadros de mando críticos en Power BI para la extracción de insights estratégicos.
-* **Estrategia SQL:** Gestión y modelado de bases de datos complejas para el soporte de decisiones de negocio.
+* **Diseño de Arquitecturas de Datos:** Implementación de modelos de análisis masivo bajo entornos Python.
+* **Optimización de Sistemas de BI:** Despliegue de cuadros de mando estratégicos en Power BI para la extracción de insights.
+* **Estrategia SQL:** Modelado de estructuras de datos complejas para el soporte de decisiones de negocio.
 
 ---
 
@@ -56,19 +56,17 @@ No solo escribo código; diseño arquitecturas. Mi enfoque no está en la sintax
 
 #### ForestGuardianRL – Sistema de Agentes Inteligentes
 > Prueba de concepto en Aprendizaje por Refuerzo.
-* **Arquitectura:** Implementación de un sistema de Reinforcement Learning para la gestión forestal dinámica.
-* **Lógica:** Configuración de entornos de entrenamiento y lógica de toma de decisiones para agentes autónomos.
+* **Arquitectura:** Estructuración de un sistema de agentes autónomos para la gestión forestal dinámica.
+* **Lógica:** Diseño de entornos de entrenamiento y algoritmos de toma de decisiones.
 
 #### MinorityReport – Inteligencia Predictiva
 > Sistema de detección de patrones.
-* **Modelado:** Diseño de modelos de Machine Learning supervisado para la detección de patrones de comportamiento.
-* **Ingeniería de Datos:** Arquitectura de pipelines para el procesamiento de datasets de alta complejidad.
+* **Modelado:** Diseño de modelos de aprendizaje supervisado para la identificación de patrones de comportamiento.
+* **Ingeniería de Datos:** Estructuración de pipelines para el procesamiento de datasets de alta complejidad.
 
 ---
 
 ### Educación & Méritos
-
-El fundamento lógico detrás de la arquitectura.
 
 * **Grado en Ingeniería Informática** | UOC (Inicio: Septiembre 2026)
 * **Máster en Big Data e Inteligencia Artificial** | FP Euroformac (10/2025 – 04/2026)
