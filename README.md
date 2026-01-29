@@ -78,13 +78,5 @@ Profesional con un fuerte enfoque en la arquitectura de soluciones y la lógica 
 ### Métricas de Ingeniería & Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosnchz&layout=compact&hide=html,css,javascript,scss&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegosnchz&show_icons=true&hide_rank=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=diegosnchz&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 </p>
